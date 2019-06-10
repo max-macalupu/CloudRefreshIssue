@@ -1,0 +1,1 @@
+INSERT INTO GREETING (`content`) VALUES ('content_01');
