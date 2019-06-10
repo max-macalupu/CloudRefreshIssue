@@ -1,4 +1,4 @@
-**Description:** This project allows to replicate the refresh endpoint issue that cause a datasource shutdown when is created through `DataSourceBuilder` class.
+**Description:** This project allows to replicate the refresh endpoint issue that cause a **datasource shutdown** when is created through `DataSourceBuilder` class.
 
 
 Run the project:
