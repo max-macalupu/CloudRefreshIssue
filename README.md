@@ -17,6 +17,13 @@ web.datasource.userName=sa
 web.datasource.jdbcUrl=jdbc:h2:mem:testdb
 web.datasource.driverClassName=org.h2.Driver
 web.datasource.type=HikariDataSource
+
+server.port: 9000
+management.server.port: 9000
+management.server.address: 127.0.0.1
+management.endpoints.web.exposure.include=*
+
+spring.cloud.refresh.extra-refreshable=javax.sql.DataSource
 ```
 
 **Bean creation:**
