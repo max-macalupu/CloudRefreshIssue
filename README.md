@@ -1,4 +1,4 @@
-**Description:** This project allows to replicate the refresh endpoint issue that cause a **datasource shutdown** when is created through `DataSourceBuilder` class and `@ConfigurationProperties` annotation using springboot 2.1.4.RELEASE or 2.1.5.RELEASE. 
+**Description:** This project allows to replicate the refresh endpoint issue that cause a **datasource shutdown** when is created through `DataSourceBuilder` class and `@ConfigurationProperties` annotation using springboot either 2.1.4.RELEASE or 2.1.5.RELEASE or 2.1.6.RELEASE. 
 
 
 Run the project:
